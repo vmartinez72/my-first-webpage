@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+h1 {
+  Color: black;
+}
+h2 {
+  Color: #db18a3;
+}
+h3 {
+  Color: grey;
+}
+p {
+    font-size: 20px;
+}
+
+img {
+  width: 700px;
+}
